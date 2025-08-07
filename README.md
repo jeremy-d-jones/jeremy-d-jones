@@ -1,6 +1,6 @@
 # jeremy d. jones
 
-infrastructure and systems work. 20+ years experience.
+infrastructure, systems, and it work since 2005
 
 ## background
 

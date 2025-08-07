@@ -10,9 +10,9 @@ scientific anti-realism
 
 react app: `normal-science-placeholder-site`
 - canvasbackground component
-- learning modern frontend development
-- leading to a complete devops demonstration
-- proving modern devops practices on github
+- modern frontend development
+- leading to a complete devops pipeline
+- demonstrating modern devops practices on github
 
 ## work style
 

@@ -11,8 +11,6 @@ scientific anti-realism
 react app: `normal-science-placeholder-site`
 - canvasbackground component
 - modern frontend development
-- leading to a complete devops pipeline
-- demonstrating modern devops practices on github
 
 ## work style
 
@@ -31,8 +29,9 @@ react app: `normal-science-placeholder-site`
 - vibe-coding with cursor
 
 ## goals
+AI has democratized access to tech. With the barriers to expression removed, what can a person create if they pour all of themselves into something? 
 
-build working applications. modernize development skills. create production-ready solutions.
+The fundamentals of high availablity are still true. The ways we achieve it have always been subject to change. Must paradigmn shifts stack atop one another and, it they do, are they still paradigmn shifts?
 
 ---
 

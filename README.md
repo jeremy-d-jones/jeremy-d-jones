@@ -31,8 +31,6 @@ react app: `normal-science-placeholder-site`
 ## goals
 AI has democratized access to tech. With the barriers to expression removed, what can a person create if they pour all of themselves into something? 
 
-The fundamentals of high availablity are still true. The ways we achieve it have always been subject to change. Must paradigmn shifts stack atop one another and, if they do, are they still paradigmn shifts?
-
 ---
 
 **AVAILABLE FOR WORK**

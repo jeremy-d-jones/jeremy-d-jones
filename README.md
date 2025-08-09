@@ -29,7 +29,7 @@ react app: `normal-science-placeholder-site`
 - vibe-coding with cursor
 
 ## goals
-AI has democratized access to tech. With the barriers to expression removed, what can a person create if they pour all of themselves into something? 
+With the barriers to expression removed, what can a person create if they pour all of themselves into something? 
 
 ---
 

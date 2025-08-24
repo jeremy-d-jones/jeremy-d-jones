@@ -31,6 +31,3 @@ react app: `normal-science-placeholder-site`
 ## goals
 
 Can we build something interesting?
----
-
-**AVAILABLE FOR WORK**

@@ -30,4 +30,4 @@ react app: `normal-science-placeholder-site`
 
 ## goals
 
-Can we build something interesting?
+I'm your huckleberry.

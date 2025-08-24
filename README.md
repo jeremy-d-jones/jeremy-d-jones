@@ -29,8 +29,8 @@ react app: `normal-science-placeholder-site`
 - vibe-coding with cursor
 
 ## goals
-With the barriers to expression removed, what can a person create if they pour all of themselves into something? 
 
+Can we build something interesting?
 ---
 
 **AVAILABLE FOR WORK**

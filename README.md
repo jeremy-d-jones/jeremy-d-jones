@@ -1,12 +1,10 @@
-# ░▒▓ jeremy d. jones ▓▒░  
+# jeremy d. jones
 
 *infrastructure, systems, and it work since 2005*  
 
----
-
 ## current project  
 
-**normal science**: full stack web app w/ auth + integrated chat interface to amazon titan llm  
+**[normal science is a full stack web app with integrated chat interface to amazon titan llm](https://normalscience.com)**
 
 **frontend**  
 - framework: react 18 + typescript  
@@ -34,17 +32,13 @@
 - monitoring: cloudwatch  
 
 **coming changes**  
-- aws cost explorer dashboarding  
-
----
+- aws cost explorer dashboarding
+- fixing signup & user pool changes for self registration  
 
 ## work style  
-
 - imperfect systems can yield results  
 - generally well regarded  
 - vibe-code the world  
-
----
 
 ## goals  
 

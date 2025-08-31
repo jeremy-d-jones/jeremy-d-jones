@@ -1,49 +1,51 @@
-# jeremy d. jones
+# ░▒▓ jeremy d. jones ▓▒░  
 
-infrastructure, systems, and it work since 2005
+*infrastructure, systems, and it work since 2005*  
 
-## background
+---
 
-scientific anti-realism 
+## current project  
 
-## current work
+**normal science**: full stack web app w/ auth + integrated chat interface to amazon titan llm  
 
-finance tracker: automated etl pipeline for bank statements
-- multi-bank pdf/csv processing, 7+ extraction methods
-- duplicate detection, staging workflow, comprehensive testing
+**frontend**  
+- framework: react 18 + typescript  
+- build: vite 5  
+- routing: react router dom v6  
+- style: tailwind css + postcss + autoprefixer  
+- auth: aws amplify v6 + amplify ui react  
+- tests: playwright  
 
-terraformquest: gamified infrastructure learning platform
-- 10 progressive quests, real aws deployment
-- react frontend, lambda api, one-command workflows
+**backend**  
+- runtime: node.js + express 4  
+- language: typescript 5  
+- auth: aws jwt verify + aws cognito  
+- sec: cors middleware + express rate limiting  
 
-normal science app: full-stack app w/ Auth & LLM enabled chat 
-- react/ts/tailwind, node/express backend
-- aws cognito auth, production architecture
+**infra**  
+- iac: terraform 5+ + aws cdk (python)  
+- compute: aws lambda (python 3.11)  
+- api: rest api + cors  
+- auth: aws cognito user pools  
+- db: dynamodb  
+- ai: aws bedrock + amazon titan lite  
+- storage: s3  
+- dns: route 53  
+- monitoring: cloudwatch  
 
-document aggregator: universal file processor cli
-- doc/docx/pdf/txt extraction with ocr support
-- recursive processing, markdown aggregation
+**coming changes**  
+- aws cost explorer dashboarding  
 
-dupe finder: lightweight duplicate detection tool
-- content-based hashing, image thumbnails
-- html gallery, csv reporting, cross-platform
+---
 
-## work style
+## work style  
 
-- imperfect systems can yeild results
-- generally well regarded
+- imperfect systems can yield results  
+- generally well regarded  
+- vibe-code the world  
 
-## skills
+---
 
-- tbd.
+## goals  
 
-## learning
-
-- react, typescript, tailwindcss
-- terraform everything everywhere all at once
-- humility
-- vibe-coding with cursor
-
-## goals
-
-I'm your huckleberry.
+*"i’m your huckleberry."*  

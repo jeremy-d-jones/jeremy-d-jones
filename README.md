@@ -4,7 +4,7 @@
 
 ## current project  
 
-**[normal science is a full stack web app with integrated chat interface to amazon titan llm](https://normalscience.com)**
+**[a full stack web app with integrated LLM chat interface](https://normalscience.com)**
 
 **frontend**  
 - framework: react 18 + typescript  
